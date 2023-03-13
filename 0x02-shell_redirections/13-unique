@@ -1,2 +1,2 @@
 #!/bin/bash
-read -a words | sort | cat
+sort | uniq -u
