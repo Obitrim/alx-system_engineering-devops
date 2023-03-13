@@ -1,2 +1,2 @@
 #!/bin/bash
-read -a words | sor | cat
+read -a words | sort | cat
