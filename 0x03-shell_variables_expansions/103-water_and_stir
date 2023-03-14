@@ -1,2 +1,2 @@
 #!/bin/bash
-bestchool=$(($WATER + $STIR))
+printf '%d' $(($WATER + $STIR)) 
